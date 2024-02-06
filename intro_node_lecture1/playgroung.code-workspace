@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../golang"
+		},
+		{
+			"path": "../../../Assignment1TypeScript"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../javascript-empty-pj"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "NodeJs"
+	}
+}
